@@ -27,3 +27,4 @@ The program:
 
 ## 🛠️ Sample Output
 
+![image](https://github.com/user-attachments/assets/3bc53b8c-221c-480d-b349-93065655ae5f)
